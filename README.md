@@ -114,16 +114,31 @@ Percentiles can often describe a distribution more usefully than simply reportin
 
 Use the simulator alongside a broader review of trading records and a risk-management plan.
 
-## Screenshots
+## Screenshots and walkthrough
 
-Screenshots will be added after the initial repository setup.
+The screenshots below show the simulator interface, example simulation outputs, equity-curve visualisation, and the guidance available for understanding the inputs.
 
-Suggested files:
+### Simulator overview
 
-- `screenshots/simulator-overview.png` — main interface.
-- `screenshots/simulation-settings.png` — available inputs and settings.
-- `screenshots/equity-curves.png` — example simulated paths.
-- `screenshots/results-summary.png` — results and summary metrics.
+![Trading Equity Curve Simulator main interface](1-%20simulator%20overview.png)
+
+### Simulation results
+
+The following screenshots show examples of the results displayed by the application.
+
+![Monte Carlo simulation results](2-%20simulation%20result.png)
+
+![Additional Monte Carlo simulation results](2-%20simulation%20result2.png)
+
+![Further Monte Carlo simulation results](2-%20simulation%20result3.png)
+
+### Equity curve
+
+![Example simulated trading equity curve](3-%20equity%20curve.jpg)
+
+### Understanding the inputs and FAQs
+
+![Simulator input explanations and frequently asked questions](4-%20Understading%20inputs%20and%20FAQs.png)
 
 ## Related project
 
