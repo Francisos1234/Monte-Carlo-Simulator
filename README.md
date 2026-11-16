@@ -41,7 +41,7 @@ The main question behind the project was:
 
 I also wanted to compare fixed risk with compounding risk and see how the choice could affect the equity curve and drawdown.
 
-## Your contribution
+## My contribution
 
 This is my own project. I came up with the idea, planned the features and decided what I wanted the simulator to show.
 
